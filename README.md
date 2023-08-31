@@ -7,6 +7,29 @@ https://github.com/elanatframework/Elanat
 
 We maintain this repository to make a comparison between Elanat in the ASP.NET Standard version and the ASP.NET Core version. We will clearly tell the story of Elanat's migration from ASP .NET Standard version to ASP.NET Core version in this README.md file.
 
+## The difference between Model and View and Controller 
+Email page
+
+View in ASP.NET Standard
+[https://github.com/elanatframework/Elanat_old/blob/elanat_framework/page/email/Default.aspx](https://github.com/elanatframework/Elanat_old/blob/elanat_framework/page/email/Default.aspx)
+
+View in ASP.NET Core
+[https://github.com/elanatframework/Elanat/blob/elanat_framework/wwwroot/page/email/Default.aspx](https://github.com/elanatframework/Elanat/blob/elanat_framework/wwwroot/page/email/Default.aspx)
+
+Model in ASP.NET Standard
+[https://github.com/elanatframework/Elanat_old/blob/elanat_framework/page/email/Default.aspx](https://github.com/elanatframework/Elanat_old/blob/elanat_framework/page/email/SiteEmailModel.cs)
+
+Model in ASP.NET Core
+[https://github.com/elanatframework/Elanat/blob/elanat_framework/class/controller_and_model/page/email/SiteEmailModel.cs](https://github.com/elanatframework/Elanat/blob/elanat_framework/class/controller_and_model/page/email/SiteEmailModel.cs)
+
+Controller in ASP.NET Standard
+[https://github.com/elanatframework/Elanat_old/blob/elanat_framework/page/email/Default.aspx.cs](https://github.com/elanatframework/Elanat_old/blob/elanat_framework/page/email/Default.aspx.cs)
+
+Controller in ASP.NET Core
+[https://github.com/elanatframework/Elanat/blob/elanat_framework/class/controller_and_model/page/email/SiteEmailController.cs](https://github.com/elanatframework/Elanat/blob/elanat_framework/class/controller_and_model/page/email/SiteEmailController.cs)
+
+As you can see, the View page has remained unchanged and only the first line has changed.
+
 
 Elanat 1.0.4.2
 --------------
