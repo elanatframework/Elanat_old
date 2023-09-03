@@ -31,7 +31,7 @@ Controller in ASP.NET Core
 As you can see, the View page has remained unchanged and only the first line has changed.
 
 
-Elanat 1.0.4.2
+Elanat 1.0.8.4
 --------------
 
 Elanat is Add-on oriented framework on the web.
