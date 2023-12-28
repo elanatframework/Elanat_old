@@ -1,5 +1,5 @@
 ![logo](https://github.com/elanatframework/Elanat/assets/111444759/fb48c66f-2c43-43bd-b877-a17e0022a781)
-# Elanat_old
+# Elanat CMS Old
 
 This archived repository is the first version of Elanat based on ASP.NET Standard; To access the repository of the second version of Elanat based on ASP.NET Core, refer to the link below.
 
